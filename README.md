@@ -4,7 +4,7 @@
 This project is a Power BI dashboard built to analyze school fee data including receivables, collections, and unpaid amounts.
 
 ## Dashboard Preview
-![Dashboard](School-Fee-Dashboard.png)
+![School-Fee-Dashboard](Dashboard.png)
 
 ## Business Problem
 Schools need better visibility into fee collection, unpaid dues, and branch performance to improve financial tracking.
